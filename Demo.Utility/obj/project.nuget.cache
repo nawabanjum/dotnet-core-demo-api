@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ft0+Yd9TBMdgl1vO6HAAAn3X6CCM3CgiBgyWuk1BzxeKr2fkUmLHquO/SIHA0gUx0G16URGcYlo5Ajo/hGD9Pg==",
+  "success": true,
+  "projectFilePath": "E:\\Development\\DotNetCore\\DemoProject\\Demo.Utility\\Demo.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nawab\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
